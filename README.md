@@ -41,3 +41,7 @@ This dataset is for scientific research use only and should not be used commerci
 [1] Hou Dongyang; Miao Zelang; Xing Huaqiao*; Wu Hao*; V-RSIR: an Open Access Web-based Image Annotation Tool for Remote Sensing Image Retrieval, IEEE Access. 2019, 7: 83852-83862.
 
 [2] Hou Dongyang; Miao Zelang; Xing Huaqiao*; Wu Hao*; Two Novel Benchmark Datasets from ArcGIS and Bing World Imagery for Remote Sensing Image Retrieval, International Journal of Remote Sensing. 2021, 42(1): 240-258. doi: 10.1080/01431161.2020.1804090.
+
+## Contact
+
+For questions about the dataset, please contact me by email houdongyang1986@163. com.
