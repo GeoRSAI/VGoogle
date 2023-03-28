@@ -5,7 +5,7 @@ A remote sensing image dataset constructed from the Google World Imagery using t
 
 ## Data description
 
-VGoogle dataset covers 38 classes (see Table 1) and contains a total of 59,404 images. Each class contains at least 1500 images with spatial resolutions ranging from 0.07 m to 9.555 m. Each class contains at least 1500 images with spatial resolutions ranging from 0.07 m to 9.555 m. Figure 1 represents the spatial distribution of the VGoogle dataset. Without affecting the data accuracy, the team converted the original dataset from RGBA four-channel to RGB three-channel and converted the images from tiff format to jpg format on December 14, 2021, reducing the dataset storage space from 8.70 GB to 2.66 GB.
+VGoogle is a remote sensing image dataset constructed from the Google World Imagery using the V-RSIR tool. It covers 38 classes (see Table 1) and contains a total of 59,404 images. Each class contains at least 1500 images with spatial resolutions ranging from 0.07 m to 9.555 m. Each class contains at least 1500 images with spatial resolutions ranging from 0.07 m to 9.555 m. Figure 1 represents the spatial distribution of the VGoogle dataset. Without affecting the data accuracy, the team converted the original dataset from RGBA four-channel to RGB three-channel and converted the images from tiff format to jpg format on December 14, 2021, reducing the dataset storage space from 8.70 GB to 2.66 GB.
 
 ### Fig. 1 Spatial distribution of images from the VGoogle
 
