@@ -9,7 +9,7 @@ VGoogle dataset covers 38 classes (see Table 1) and contains a total of 59,404 i
 
 ### Fig. 1 Spatial distribution of images from the VGoogle
 
-![image-20230328130111559](C:\Users\wsy\AppData\Roaming\Typora\typora-user-images\image-20230328130111559.png)
+![image-20230328130111559](https://github.com/GeoRSAI/VGoogle/blob/master/figures/spatial_distribution.png)
 
 ### Table 1 Class name
 
